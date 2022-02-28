@@ -136,7 +136,6 @@ body{
 }
 .footer{
     color: var(--white);
-   padding-top: 100%;
-   background-color: black;
-   background: local;
+    padding-top: 40%;
+   margin: 10px 10px;
 }
